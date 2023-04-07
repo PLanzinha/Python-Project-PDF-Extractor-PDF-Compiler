@@ -1,0 +1,289 @@
+Example of Data Table 1
+sample blue LED value green LED value red LED value
+clear water 97 19 79
+blue water 73 11 13
+green water 35 15 14
+tea water 33 13 70
+Example of Data Table 2
+sample blue % transmitted green % transmitted red % transmitted
+clear water 97/97 = 100% 19/19 = 100% 79/79 = 100%
+blue water 73/97 = 75% 11/19 = 58% 13/79 = 17%
+green water 35/97 = 36% 15/19 = 79% 14/79 = 18%
+tea water 33/97 = 34% 13/19 = 68% 70/79 = 91%
+Example of Measuring Ocean Color Graph 1
+
+Example of Data Table 3
+sample blue LED value green LED value red LED value
++ 1 tsp milk 13 14 12
++1tsp milk + blue 10 9 6
++1tsp milk +green 9 13 7
++1tsp milk + tea 7 9 9
+Example of Data Table 4
+Water sample blue % transmitted green % transmitted red % transmitted
++ 1 tsp milk 13/13 = 100% 14/14 = 100% 12/12 = 100%
++1tsp milk + blue 10/13 = 77% 9/14 = 64% 6/12 = 50%
++1tsp milk +green 9/13 = 69% 13/14 = 93% 7/12 = 58%
++1tsp milk + tea 7/13 = 54% 9/14 = 69% 9/12 = 75%
+Example of Measuring Ocean Color Graph 2
+
+NATIONAL PARTNERSHIP FOR QUALITY AFTERSCHOOL LEARNING
+www.sedl.org/afterschool/toolkits
+����������� �������� �������
+Tutoring to Enhance Science Skills
+Tutoring Two: Learning to Make Data Tables
+..............................................................................................
+Sample Data for Data Tables
+Use these data to create data tables following the Guidelines for Making a Data Table and
+Checklist for a Data Table.
+Example 1: Pet Survey (GR 2–3)
+Ms. Hubert’s afterschool students took a survey of the 600 students at Morales Elementary
+School. Students were asked to select their favorite pet from a list of eight animals. Here
+are the results.
+Lizard 25, Dog 250, Cat 115, Bird 50, Guinea pig 30, Hamster 45, Fish 75,
+Ferret 10
+Example 2: Electromagnets—Increasing Coils (GR 3–5)
+The following data were collected using an electromagnet with a 1.5 volt battery, a switch,
+a piece of #20 insulated wire, and a nail. Three trials were run. Safety precautions in
+repeating this experiment include using safety goggles or safety spectacles and avoiding
+short circuits.
+Number of Coils Number of Paperclips
+5 3, 5, 4
+10 7, 8, 6
+15 11, 10, 12
+20 15, 13, 14
+Example 3: pH of Substances (GR 5–10)
+The following are pH values of common household substances taken by three different
+teams using pH probes. Safety precautions in repeating this experiment include hooded
+ventilation, chemical-splash safety goggles, gloves, and apron. Do not use bleach,
+ammonia, or strong acids with children.
+Lemon juice 2.4, 2.0, 2.2; Baking soda (1 Tbsp) in Water (1 cup) 8.4, 8.3, 8.7;
+Orange juice 3.5, 4.0, 3.4; Battery acid 1.0, 0.7, 0.5; Apples 3.0, 3.2, 3.5;
+Tomatoes 4.5, 4.2, 4.0; Bottled water 6.7, 7.0, 7.2; Milk of magnesia 10.5, 10.3,
+10.6; Liquid hand soap 9.0, 10.0, 9.5; Vinegar 2.2, 2.9, 3.0; Household bleach
+12.5, 12.5, 12.7; Milk 6.6, 6.5, 6.4; Household ammonia 11.5, 11.0, 11.5;
+Lye 13.0, 13.5, 13.4; and Sodium hydroxide 14.0, 14.0, 13.9; Anti-freeze 10.1,
+10.9, 9.7; Windex 9.9. 10.2, 9.5; Liquid detergent 10.5, 10.0, 10.3; and
+Cola 3.0, 2.5, 3.2
+Teaching tip: The pH scale is from 0 to 14. Have students make two data tables, one
+with the data as given and one with the pH scale 0 to 14 with the substances’ average
+pH in rank order on the scale (Battery acid at the lower end and Sodium hydroxide at
+the upper end) or create a pH graphic organizer.
+1
+
+Example 4: Automobile Land Speed Records (GR 5-10)
+In the first recorded automobile race in 1898, Count Gaston de Chasseloup-Laubat of
+Paris, France, drove 1 kilometer in 57 seconds for an average speed of 39.2 miles per hour
+(mph) or 63.1 kilometers per hour (kph). In 1904, Henry Ford drove his Ford Arrow across
+frozen Lake St. Clair, MI, at an average speed of 91.4 mph. Now, the North American
+Eagle is trying to break a land speed record of 800 mph. The Federation International de
+L’Automobile (FIA), the world’s governing body for motor sport and land speed records,
+recorded the following land speed records. (Retrieved on February 5, 2006, from
+http://www.landspeed.com/lsrinfo.asp.)
+Speed (mph) Driver Car Engine Date
+407.447 Craig Breedlove Spirit of America GE J47 8/5/63
+413.199 Tom Green Wingfoot Express WE J46 10/2/64
+434.22 Art Arfons Green Monster GE J79 10/5/64
+468.719 Craig Breedlove Spirit of America GE J79 10/13/64
+526.277 Craig Breedlove Spirit of America GE J79 10/15/65
+536.712 Art Arfons Green Monster GE J79 10/27/65
+555.127 Craig Breedlove Spirit of America, Sonic 1 GE J79 11/2/65
+576.553 Art Arfons Green Monster GE J79 11/7/65
+600.601 Craig Breedlove Spirit of America, Sonic 1 GE J79 11/15/65
+622.407 Gary Gabelich Blue Flame Rocket 10/23/70
+633.468 Richard Noble Thrust 2 RR RG 146 10/4/83
+763.035 Andy Green Thrust SSC RR Spey 10/15/97
+Example 5: Distance and Time (GR 8-10)
+The following data were collected using a car with a water clock set to release a drop in
+a unit of time and a meter stick. The car rolled down an inclined plane. Three trials were
+run. Create a data table with an average distance column and an average velocity column,
+create an average distance-time graph, and draw the best-fit line or curve. Estimate the
+car’s distance traveled and velocity at six drops of water. Describe the motion of the car. Is
+it going at a constant speed, accelerating, or decelerating? How do you know?
+Time (drops of water) Distance (cm)
+1 10,11,9
+2 29, 31, 30
+3 59, 58, 61
+4 102, 100, 98
+5 122, 125, 127
+© 2006 WGBH Educational Foundation. All rights reserved.
+2
+
+Anatomy of the Somatosensory System
+1
+FROM WIKIBOOKS
+Our somatosensory system consists of sensors in the skin
+This is a sample document to
+and sensors in our muscles, tendons, and joints. The re-
+showcase page-based formatting. It
+ceptors in the skin, the so called cutaneous receptors, tell
+contains a chapter from aWikibook
+usabouttemperature(thermoreceptors),pressureandsur-
+calledSensory Systems. None of the
+face texture (mechano receptors), and pain (nociceptors).
+content has been changed in this
+The receptors in muscles and joints provide information
+article, but some content has been
+about muscle length, muscle tension, and joint angles.
+removed.
+Cutaneous receptors
+Sensory information from Meissner corpuscles and rapidly
+adapting afferents leads to adjustment of grip force when
+objects are lifted. These afferents respond with a brief
+burst of action potentials when objects move a small dis-
+tance during the early stages of lifting. In response to
+Hairy skin Glabrous skin Figure 1: Receptors in the hu-
+man skin: Mechanoreceptors can
+Papillary Ridges befreereceptorsorencapsulated.
+Examples for free receptors are
+the hair receptors at the roots of
+Epidermis
+Free nerve Merkel’s Septa hairs.Encapsulatedreceptorsare
+ending receptor
+the Pacinian corpuscles and the
+receptors in the glabrous (hair-
+less) skin: Meissner corpuscles,
+Meissner’s
+Sebace go lu ans d corpuscle Dermis Ruffini corpuscles and Merkel’s
+Ruffini’s disks.
+corpuscle
+Hair receptor
+Pacinian
+corpuscle
+1
+The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.
+1
+
+From Wikibooks
+Figure 2: Mammalian muscle
+spindle showing typical position
+in a muscle (left), neuronal con-
+nections in spinal cord (middle)
+and expanded schematic (right).
+The spindle is a stretch receptor
+with its own motor supply con-
+sisting of several intrafusal mus-
+cle fibres. The sensory endings of
+aprimary(groupIa)afferentand
+a secondary (group II) afferent
+coil around the non-contractile
+central portions of the intrafusal
+fibres.
+rapidly adapting afferent activity, muscle force increases
+reflexivelyuntilthegrippedobjectnolongermoves.Such
+a rapid response to a tactile stimulus is a clear indication
+oftheroleplayedbysomatosensoryneuronsinmotorac-
+tivity.
+The slowly adapting Merkel’s receptors are responsible
+forformandtextureperception.Aswouldbeexpectedfor
+receptors mediating form perception, Merkel’s receptors
+are present at high density in the digits and around the
+mouth (50/mm² of skin surface), at lower density in oth-
+erglabroussurfaces,andatverylowdensityinhairyskin.
+This innervations density shrinks progressively with the
+passageoftimesothatbytheageof50,thedensityinhu-
+man digits is reduced to 10/mm². Unlike rapidly adapting
+axons, slowly adapting fibers respond not only to the ini-
+tial indentation of skin, but also to sustained indentation
+up to several seconds in duration.
+Activation of the rapidly adapting Pacinian corpuscles
+gives a feeling of vibration, while the slowly adapting
+Ruffini corpuscles respond to the lataral movement or
+stretching of skin.
+Nociceptors
+Nociceptors have free nerve endings. Functionally, skin
+nociceptors are either high-threshold mechanoreceptors
+2
+
+Anatomy of the Somatosensory System
+Rapidly adapting Slowly adapting
+Surfacereceptor/ Hair receptor,Meissner’s corpuscle: De- Merkel’s receptor: Used for spa-
+small receptive tect an insect or a very fine vibration. tial details, e.g. a round surface
+field Used for recognizing texture. edge or “an X” in brail.
+Deep receptor / Ruffini’s corpuscle: “A skin
+Pacinian corpuscle: “A diffuse vibra-
+large receptive stretch”. Used for joint position
+tion” e.g. tapping with a pencil.
+field in fingers.
+Table 1
+or polymodal receptors. Polymodal receptors respond not
+only to intense mechanical stimuli, but also to heat and
+to noxious chemicals. These receptors respond to minute
+punctures of the epithelium, with a response magnitude
+thatdependsonthedegreeoftissuedeformation.Theyal-
+so respond to temperatures in the range of 40–60°C, and
+change their response rates as a linear function of warm-
+ing(incontrastwiththesaturatingresponsesdisplayedby
+non-noxious thermoreceptors at high temperatures).
+Pain signals can be separated into individual compo-
+Notice how figure captions and
+nents, corresponding to different types of nerve fibers
+sidenotes are shown in the outside
+used for transmitting these signals. The rapidly transmit-
+margin (on the left or right, depending
+ted signal, which often has high spatial resolution, is
+on whether the page is left or right).
+called first pain or cutaneous pricking pain. It is well local-
+Also, figures are floated to the top/
+ized and easily tolerated. The much slower, highly affec-
+bottom of the page. Wide content, like
+tive component is called second pain or burning pain; it is
+the table and Figure 3, intrude into the
+poorly localized and poorly tolerated. The third or deep
+outside margins.
+pain, arising from viscera, musculature and joints, is also
+poorly localized, can be chronic and is often associated
+with referred pain.
+Muscle Spindles
+Scatteredthroughoutvirtuallyeverystriatedmuscleinthe
+body are long, thin, stretch receptors called muscle spin-
+dles.Theyarequitesimpleinprinciple,consistingofafew
+smallmusclefiberswithacapsulesurroundingthemiddle
+third of the fibers. These fibers are called intrafusal fibers,
+incontrasttotheordinaryextrafusalfibers.Theendsofthe
+intrafusalfibersareattachedtoextrafusalfibers,sowhen-
+ever the muscle is stretched, the intrafusal fibers are also
+3
+
+From Wikibooks
+Force
+control Force (Golgi tendon organ)
+signal Inter- Force feedback
+neurons
+External
+forces
+Driving Muscle
+signal Tendon Muscle force length
+Muscle Load
+organs
+Length (secondary muscle-spindel afferents)
+Length error (primary muscle-spindel afferents) Length &
+Velocity (primary muscle-spindel afferents) velocity
+feedback
+Length Spindles
+control
+signal
+Gamma bias
+Figure 3: Feedback loops for proprioceptive signals for the perception and control of limb move-
+ments. Arrows indicate excitatory connections; filled circles inhibitory connections.
+stretched. The central region of each intrafusal fiber has
+few myofilaments and is non-contractile, but it does have
+oneormoresensoryendingsappliedtoit.Whenthemus-
+cle is stretched, the central part of the intrafusal fiber is
+stretched and each sensory ending fires impulses.
+Muscle spindles also receive a motor innervation. The
+For more examples of how to use
+large motor neurons that supply extrafusal muscle fibers
+HTML and CSS for paper-based
+arecalledalphamotorneurons,whilethesmalleronessup-
+publishing, seecss4.pub.
+plying the contractile portions of intrafusal fibers are
+called gamma neurons. Gamma motor neurons can regu-
+latethesensitivityofthemusclespindlesothatthissensi-
+tivity can be maintained at any given muscle length.
+Joint receptors
+The joint receptors are low-threshold mechanoreceptors
+andhavebeendividedintofourgroups.Theysignaldiffer-
+entcharacteristicsofjointfunction(position,movements,
+direction and speed of movements). The free receptors or
+type 4 joint receptors are nociceptors.
+4
